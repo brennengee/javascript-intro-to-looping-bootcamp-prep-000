@@ -35,6 +35,6 @@ do {
 function doWhileLoop(array) {
   do {
     array.splice();
-  } while (array.length > 0 && maybeTrue())
+  } while (array.length > 2 && maybeTrue())
   return array;
 }
