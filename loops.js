@@ -26,6 +26,7 @@ function whileLoop(n) {
 
 function doWhileLoop(array) {
   do {
-    array.splice()
+    array.splice();
+    
   }
 }
