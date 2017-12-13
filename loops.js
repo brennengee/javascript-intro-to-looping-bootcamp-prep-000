@@ -34,7 +34,7 @@ do {
 
 function doWhileLoop(array) {
   do {
-    array.splice(, );
+    array.splice(1);
   } while (array.length > 0 && maybeTrue())
   return array;
 }
